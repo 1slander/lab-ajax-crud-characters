@@ -1,20 +1,6 @@
 {
   "characters": [
     {
-      "id": 1,
-      "name": "Han Solo",
-      "occupation": "Smuggler",
-      "weapon": "Blaster Pistol",
-      "cartoon": true
-    },
-    {
-      "id": 2,
-      "name": "Luke Skywalker",
-      "occupation": "Jedi Knight",
-      "weapon": "Lightsaber",
-      "cartoon": false
-    },
-    {
       "name": "Monkey D. Luffy",
       "occupation": "Pirate",
       "cartoon": true,
@@ -27,6 +13,34 @@
       "cartoon": true,
       "weapon": "San-toriou",
       "id": 7
+    },
+    {
+      "name": "Captain Usopp",
+      "occupation": "Pirate",
+      "cartoon": true,
+      "weapon": "Sniper",
+      "id": 8
+    },
+    {
+      "name": "test",
+      "occupation": "test",
+      "cartoon": true,
+      "weapon": "test",
+      "id": 11
+    },
+    {
+      "name": "Nami",
+      "occupation": "Pirate",
+      "weapon": "Weather stick",
+      "cartoon": true,
+      "id": 12
+    },
+    {
+      "name": "Franky",
+      "occupation": "Pirate",
+      "weapon": "Cyborg",
+      "cartoon": true,
+      "id": 13
     }
   ]
 }
