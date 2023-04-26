@@ -1,10 +1,10 @@
-const axios = require('axios');
+//const axios = require('axios');
 
 class APIHandler {
 constructor(baseURL){
   this.BASE_URL = baseURL;
   this.api = axios.create({
-  baseURL:this.BASE_URL;
+  baseURL:this.BASE_URL,
   })
 }
 
@@ -36,4 +36,4 @@ constructor(baseURL){
 }
 
 
-module.exports = APIHandler;
+//module.exports = APIHandler;
